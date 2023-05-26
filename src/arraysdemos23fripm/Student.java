@@ -6,7 +6,8 @@ public class Student {
     private String sId;
     private String sName;
     private String address;
-
+    
+    //new added fatch and marge
     public Student(String sId, String sName) {
         this.sId = sId;
         this.sName = sName;
